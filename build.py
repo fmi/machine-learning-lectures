@@ -5,11 +5,13 @@ import argparse
 
 import yaml
 
+'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/print/paper.css'
 
 NOTES_COMMAND = ('jupyter nbconvert --to html lectures/{slug}.ipynb --stdout '
                  '> compiled-lectures/{slug}.html')
 SLIDES_COMMAND = ('jupyter nbconvert --to slides lectures/{slug}.ipynb '
-                  '--reveal-prefix=reveal.js --output-dir=slides ')
+                  '--reveal-prefix=https://cdnjs.cloudflare.com/ajax/libs/'
+                  'reveal.js/3.5.0 --output-dir=slides ')
 
 
 os.makedirs('compiled-lectures', exist_ok=True)
