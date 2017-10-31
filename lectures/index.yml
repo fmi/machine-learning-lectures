@@ -22,3 +22,7 @@
   title: '06. Титаник: класификация, data exploration, feature engineering'
   date: 2017-10-26
   slug: 06-titanic
+7:
+  title: 07. Оценяване на модел и cross validation
+  date: 2017-10-31
+  slug: 07-model-validation
