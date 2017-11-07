@@ -26,3 +26,11 @@
   title: 07. Оценяване на модел и cross validation
   date: 2017-10-31
   slug: 07-model-validation
+8:
+  title: 08. Spooky Author Identification
+  date: 2017-11-02
+  slug: 08-spooky-author-identification
+9:
+  title: 09. SVM, Transformers, Pipelines
+  date: 2017-11-07
+  slug: 09-svm-transformers-pipelines
