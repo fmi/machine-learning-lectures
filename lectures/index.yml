@@ -34,3 +34,19 @@
   title: 09. SVM, Transformers, Pipelines
   date: 2017-11-07
   slug: 09-svm-transformers-pipelines
+10:
+  title: 10. Unsupervised Learning
+  date: 2017-11-14
+  slug: 10-unsupervised-learning
+11:
+  title: 11. Unsupervised Learning, pt. 2
+  date: 2017-11-16
+  slug: 11-unsupervised-learning-2
+12:
+  title: 12. NumPy, SciPy, Pandas, Matplotlib, Seaborn
+  date: 2017-11-21
+  slug: 12-libraries
+13:
+  title: 13. Математиката зад линейната и логистичната регресия
+  date: 2017-11-23
+  slug: 13-linear-logistic-regression-math
