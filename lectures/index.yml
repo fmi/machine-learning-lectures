@@ -50,3 +50,19 @@
   title: 13. Математиката зад линейната и логистичната регресия
   date: 2017-11-23
   slug: 13-linear-logistic-regression-math
+14:
+  title: 14. Невронни мрежи и backpropagation
+  date: 2017-11-28
+  slug: 14-neural-networks
+15:
+  title: 15. Tensorflow and Keras
+  date: 2017-12-07
+  slug: 15-tensorflow-keras
+16:
+  title: Автоенкодери
+  date: 2017-12-12
+  slug: 16-autoencoders
+17:
+  title: WordEmbeddings
+  date: 2017-12-12
+  slug: 17-word-embeddings
