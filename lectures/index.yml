@@ -66,3 +66,19 @@
   title: 17. WordEmbeddings
   date: 2017-12-12
   slug: 17-word-embeddings
+18:
+  title: 18. MachineTranslation
+  date: 2017-12-19
+  slug: 18-machine-translation.pdf
+19:
+  title: 19. Convolutional Neural Networks
+  date: 2018-01-04
+  slug: 19-convolutional-neural-networks
+20:
+  title: 20. Convolutional Neural Networks part 2
+  date: 2018-01-09
+  slug: 20-convolutional-neural-networks-2
+21:
+  title: 20. Recurrent Neural Networks
+  date: 2018-01-11
+  slug: 21-recurrent-neural-networks.pdf
