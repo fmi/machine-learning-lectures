@@ -10,3 +10,11 @@
   title: 03. Overfit, underfit и регуляризация
   date: 2018-10-18
   slug: 03-overfit-underfit-regularization
+4:
+  title: 04. Разглеждане на дата сет, трениране на модел и оптимизиране
+  date: 2018-10-22
+  slug: 04-data-exploration
+5:
+  title: 05. Въведение в Python
+  date: 2018-10-25
+  slug: 05-python-overview
