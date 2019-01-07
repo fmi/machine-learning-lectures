@@ -34,3 +34,23 @@
   title: 09. Титаник
   date: 2018-11-19
   slug: 09-titanic
+10:
+  title: 10. Spooky Author Identification
+  date: 2018-11-26
+  slug: 10-spooky-author-identification
+11:
+  title: 11. NumPy, SciPy, Pandas, Matplotlib, Seaborn
+  date: 2018-12-03
+  slug: 11-libraries
+12:
+  title: 12. Математиката зад линейна и логистична регресия
+  date: 2018-12-06
+  slug: 12-linear-logistic-regression-math
+14:
+  title: 14. Unsupervised learning
+  date: 2018-12-17
+  slug: 14-unsupervised-learning
+15:
+  title: 15. Невронни мрежи
+  date: 2019-01-04
+  slug: 15-neural-networks
